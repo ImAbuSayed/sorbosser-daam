@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sorbosser Daam
+
+This log tracks the cryptographic history and versioning for the song **Sorbosser Daam** (sorbosser-daam).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T07:11:50.411090 | `v1` | `840831125a74301d8c1d4fc2ac5e7a5bcfacb03268b6576d6215b86f167391ef` | `942f83b3644ecc4fb00626e3079b2dce9a47ef6c406a07335ac855cbb3db6f6e` | `2026-05-16_sorbosser-daam-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

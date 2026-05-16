@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sorbosser-daam/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Sorbosser Daam](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sorbosser-daam/) |
+| **Get License** | [Get License For Sorbosser Daam](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sorbosser-daam/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `840831125a74301d8c1d4fc2ac5e7a5bcfacb03268b6576d6215b86f167391ef` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
