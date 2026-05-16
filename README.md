@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sorbosser-daam/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Sorbosser Daam](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sorbosser-daam/) |
+| **Get License** | [Official Music Licensing for Sorbosser Daam](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sorbosser-daam/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এক ঘোরে মন ঠিকানা হারালো
+> তোমার প্রেমের নেশায় রাত হয়ে যায় আলো
+> গোপন কোনো মায়ায় হৃদয় তোমাকে ডাকলো
+> আমার এই শূন্যতায় তোমার ছোঁয়া লাগলো
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
